@@ -6,6 +6,10 @@ Esta aplicação GUI, desenvolvida em Python com a biblioteca `tkinter`, permite
   <img src="./assets/icon.png" alt="ícone do app" width="200"/>
 </p>
 
+# Vídeo de demonstração
+
+https://drive.google.com/file/d/1ABLQmyiup4WfSQm51vwhEnZhlU2ZrYaW/view?usp=sharing
+
 ### Funcionalidades:
 
 - **Selecionar Imagem:** Permite carregar uma imagem do seu computador.
